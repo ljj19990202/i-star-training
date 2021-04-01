@@ -1,0 +1,8 @@
+       今天是我们技术培训的第一天，今天的主要内容是确定了分组以及我们小组讨论了以在github上提交日报的方式作为每日打卡，因此我今天的主要任务是安装和学习了GitHub，了解了github如何fork他人的仓库，步骤如下：登陆github.com；进入你要fork的地址；点击右上角的Fork按钮；在自己的github Repo找到fork过来的仓库；之后再将其fork到自己的本地仓库就可以进行相应的操作了。同时我也学习了GitHub的一些基础命令：
+      $cd /hello-wor    //到hello-world目录 
+      $git init         //初始化 
+      $git add   //把所有文件加入到索引
+      $git commit  //提交到本地仓库，然后会填写更新日志
+      $git remote add origin git@github.com:WadeLeng/hello-world.git   //增加到remote
+      $git push origin master  //push到github上
+       以上就是我这一天学习的主要内容。
